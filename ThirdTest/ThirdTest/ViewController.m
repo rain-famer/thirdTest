@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"*----- 雨农-----*");
+    NSLog(@"------小李子－－－");
 }
 
 
