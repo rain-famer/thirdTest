@@ -2,8 +2,8 @@
 //  ViewController.m
 //  ThirdTest
 //
-//  Created by 黄卫 on 17/2/22.
-//  Copyright © 2017年 huangwei. All rights reserved.
+//  Created by 雨农 on 17/2/22.
+//  Copyright © 2017年 yunong. All rights reserved.
 //
 
 #import "ViewController.h"
@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"*----- 黄卫-----*");
+    NSLog(@"*----- 雨农-----*");
 }
 
 
